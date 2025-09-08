@@ -1,2 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
+body{
+    /* for force light mode */
+    background-color: var(--color-gray-100);
+}
